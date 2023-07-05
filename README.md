@@ -6,9 +6,9 @@ Two players alternate turns trying to be the first to end a turn with at least G
 
 <ol>
 
-<li> Sow Sad. If any of the dice outcomes is a 1, the current player's score for the turn is 1. </li>
+<li> Sow Sad. If any of the dice outcomes is a 1, the current player's score for the turn is 1.</li><br>
 
-<li>Boar Brawl. A player who rolls zero dice scores three times the absolute difference between the tens digit of the opponent’s score and the ones digit of the current player’s score, or 1, whichever is higher. The ones digit refers to the rightmost digit and the tens digit refers to the second-rightmost digit.</li>
+<li>Boar Brawl. A player who rolls zero dice scores three times the absolute difference between the tens digit of the opponent’s score and the ones digit of the current player’s score, or 1, whichever is higher. The ones digit refers to the rightmost digit and the tens digit refers to the second-rightmost digit.</li><br>
 
 <li>Fuzzy Factors. A fuzzy number is any number n where the greatest common divisor (GCD) of n and 100 is greater than 10. Recall that the GCD of a and b is the largest factor that is shared between both numbers (for example, the GCD of 10 and 15 is 5). After a player gains points for their turn, if their resulting score is a fuzzy number, add two times the tens digit of the GCD to the player's score.</li>
 
