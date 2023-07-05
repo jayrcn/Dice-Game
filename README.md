@@ -16,4 +16,4 @@ In a normal game of Hog, those are all the rules. To spice up the game, we'll in
 </ol><br>
 
 
-Special Note: The folder has ALL the files including the miscellaneous ones, the ones that are show outside the folder are the same ones in the folder but, those files are the "main" ones, the one that has the code of all the functions to better see what files are the backbone of this project!
+<b>Special Note: The folder has ALL the files including the miscellaneous ones, the ones that are show outside the folder are the same ones in the folder but, those files are the "main" ones, the one that has the code of all the functions to better see what files are the backbone of this project!</b>
