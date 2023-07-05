@@ -12,7 +12,7 @@ Two players alternate turns trying to be the first to end a turn with at least G
 
 <li>Fuzzy Factors. A fuzzy number is any number n where the greatest common divisor (GCD) of n and 100 is greater than 10. Recall that the GCD of a and b is the largest factor that is shared between both numbers (for example, the GCD of 10 and 15 is 5). After a player gains points for their turn, if their resulting score is a fuzzy number, add two times the tens digit of the GCD to the player's score.</li>
 
-</ol><br>
+</ol> <br>
 
 
 <b>Special Note: The folder has ALL the files including the miscellaneous ones, the ones that are show outside the folder are the same ones in the folder but, those files are the "main" ones, the one that has the code of all the functions to better see what files are the backbone of this project!</b>
